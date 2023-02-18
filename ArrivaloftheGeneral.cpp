@@ -1,6 +1,6 @@
 //  https://codeforces.com/problemset/problem/144/A
 
-
+// INCOMPLETE SOLUTION.
 
 include<bits/stdc++.h>
 using namespace std;
